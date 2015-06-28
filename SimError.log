@@ -1,0 +1,9 @@
+
+GUI_Alloc.c:
+Block to be deleted is already locked in _Free().
+GUI_Alloc.c:
+Block to be deleted is already locked in _Free().
+GUI_Alloc.c:
+Block to be deleted is already locked in _Free().
+GUI_Alloc.c:
+Dereferencing free block in GUI_ALLOC_h2p().
